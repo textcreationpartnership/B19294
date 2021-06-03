@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties gracious patent to the goldsmiths, for payment and satisfaction of their debt. Published by His Majesties command, for the information of their several creditors.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19294</idno><idno type="EEBO-CITATION">99891076</idno>
+  <idno type="VID">190299</idno>
+  <idno type="EEBO-PROQUEST">2248558882</idno>
+  
+            <idno type="OCLC"> 12198595</idno>
+            <idno type="STC">Wing C3039</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[148]</idno>
+            <idno type="STC">ESTC R9827</idno>
+            <idno type="PROQUEST">ocm99891076</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891076e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19294)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190299)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[148])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties gracious patent to the goldsmiths, for payment and satisfaction of their debt. Published by His Majesties command, for the information of their several creditors.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>19, [1] p. : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill, Christopher Barker, Thomas Newcomb and Henry Hills, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With woodcuts of the Royal Arms, initials.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Metal-workers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Debts --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190299:1"/>
+            <pb facs="tcp:190299:1"/>
+            <p>His Majesties GRACIOUS PATENT TO THE GOLDSMITHS, For Payment and Satisfaction of their DEBT.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by His Majesties Command, For the Information of their several Creditors.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>Royal blazon or coat of arms.</figDesc>
+               <p>DIEV ET MON DROIT</p>
+            </figure>
+            <p>LONDON, Printed by John Bill, Christopher Barker, Thomas Newcomb and Henry Hills, Printers to the Kings most Excellent Majesty. 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="license">
+            <pb facs="tcp:190299:2"/>
+            <pb n="3" facs="tcp:190299:2"/>
+            <head>
+               <figure>
+                  <figDesc>Royal blazon or coat of arms.</figDesc>
+                  <p>
+                     <hi>DIEV ET MON DROIT</hi>
+                  </p>
+               </figure>
+               <hi>At the Court at</hi> WHITEHALL, May <hi>the 23<seg rend="sup">d.</seg> 1677. Present,</hi> The Kings most Excellent Majesty,
+<list>
+                  <item>Lord Chancellor</item>
+                  <item>Lord Privy Seal</item>
+                  <item>Duke of <hi>Lauderdale</hi>
+                  </item>
+                  <item>Duke of <hi>Ormond</hi>
+                  </item>
+                  <item>Earl of <hi>Ossory</hi>
+                  </item>
+                  <item>Lord Camberlain</item>
+                  <item>Earl of <hi>Bridgwater</hi>
+                  </item>
+                  <item>Earl of <hi>Northampton</hi>
+                  </item>
+                  <item>Earl of <hi>Peterborow</hi>
+                  </item>
+                  <item>Earl of <hi>Bathe</hi>
+                  </item>
+                  <item>Earl of <hi>Carlisle</hi>
+                  </item>
+                  <item>Earl of <hi>Craven</hi>
+                  </item>
+                  <item>Earl of <hi>Carbery</hi>
+                  </item>
+                  <item>Viscount <hi>Fauconberg</hi>
+                  </item>
+                  <item>Viscount <hi>Newport</hi>
+                  </item>
+                  <item>Lord Bishop of <hi>London</hi>
+                  </item>
+                  <item>Lord Bishop of <hi>Durham</hi>
+                  </item>
+                  <item>Lord Bishop of <hi>Winton</hi>
+                  </item>
+                  <item>Lord <hi>Maynard</hi>
+                  </item>
+                  <item>M<seg rend="sup">r</seg>. Vice-Chamberlain,</item>
+                  <item>M<seg rend="sup">r</seg>. Secretary <hi>Williamson.</hi>
+                  </item>
+               </list>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas His Majesty in Council was Graciously pleased on the Ninth of <hi>February</hi> last past, to Declare that he would Assign and Set apart so much of that Branch of His Revenue of the Excise, as by Act of Parliament is made Hereditary and Perpe<g ref="char:EOLhyphen"/>tual, to the Payment and Satisfaction of
+<pb n="4" facs="tcp:190299:3"/> the Goldsmiths Debt; And whereas in pursuance thereof, His Majesty hath secu<g ref="char:EOLhyphen"/>red unto the Goldsmiths their Debt on the said Revenue, by Letters Patents granted to them respectively under the Great Seal of <hi>England;</hi> And His Majesty having in the said Letters Patents provided for the Security of such of His Subjects as have Trusted the said Goldsmiths, Doth think fit to Order, And it is hereby Ordered, That the said Letters Patents shall be forthwith Printed and made Publick, for the Information and Satisfaction of all those who are Concerned therein.</p>
+            <closer>
+               <signed>Robert Southwell.</signed>
+            </closer>
+         </div>
+         <div type="letters_patent">
+            <pb n="5" facs="tcp:190299:3"/>
+            <p>
+               <figure>
+                  <figDesc>Royal blazon or coat of arms.</figDesc>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES the Second, by the Grace of God King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </hi> To all to whom these Pre<g ref="char:EOLhyphen"/>sents shall come greéting. Whereas since the time of Our Happy Restauration, We have beén Involved in great Foreign Wars, as well for the Safety of Our Government, as for the Vindication of the Rights and Priviledges of Our Sub<g ref="char:EOLhyphen"/>jects; In the Profecution whereof, We have beén Constrained for some years past, contrary to Our inclinations, to <hi>postpone</hi> the Payment of the Moneys due from Vs to several Gold<g ref="char:EOLhyphen"/>smiths and others upon Tallies Struck, and Orders Registred and Payable out of several Branches of Our Revenue, and other wife; and although the present posture of Our Af<g ref="char:EOLhyphen"/>fairs cannot reasonably spare so great a Sum as must be applied to the Satisfaction of those Debts, yet considering the great difficulties which very many of Our Loving Subjects (who put their Moneys into the hands of those Goldsmiths and others from whom We recei<g ref="char:EOLhyphen"/>ved it) do at present lie under (almost to their utter ruine) for want of their said Moneys,
+<pb n="6" facs="tcp:190299:4"/> We have rather chose, out of our Princely Care and Compassion towards our People, to suffer in Our own Affairs, then that Our loving Subjects should want so seasonable a Relief; and having seriously Considered of the way and means to effect this Our present purpose, We could not find any more effectual, and less prejudicial to Vs in the present posture of Our Revenue, then by Granting unto each of them the said Goldsmiths, and others to whom We are Indebted as aforesaid respectively, and to his and their respective Heirs and Assigns, an Annual Sum or Payment answerable in va<g ref="char:EOLhyphen"/>lue yearly, to the Interest of their respective Debts, at the rate of Six pounds <hi>per Cent. per annum</hi> for all such Moneys as are due unto them: The Consideration whereof induced Vs to Command Our High Treasurer of <hi>England</hi> to cause all the Accounts of the said Gold<g ref="char:EOLhyphen"/>smiths to be Stated and made up by <hi>Richard Aldworth</hi> Esquire, one of Our Auditors, to the First day of <hi>January</hi> One thousand six hundred seventy and six; which having beén accordingly cast up and Setled, it appears thereby, That there is due and owing by Vs unto Our Tru<g ref="char:EOLhyphen"/>sty and Welbeloved Subject Sir <hi>Robert Vyner</hi> Knight and Baronet, the sum of Four hun<g ref="char:EOLhyphen"/>dred and sixteén thousand seven hundred twenty and four pounds thirteén shillings one peny half-peny; in satisfaction whereof, according to Our intent in these Presents expressed, We have resolved to grant unto him the sum of Five and twenty thousand and three pounds nine shillings and four pence <hi>per annum,</hi> out of that part of Our Revenue of Excise which was granted unto Vs, Our Heirs and Suc<g ref="char:EOLhyphen"/>cessors for ever, by an Act of Parliament made in the Twelfth year of Our Reign, Intituled,
+<pb n="7" facs="tcp:190299:4"/>
+               <hi>An Act for taking away the Court of Wards and Li<g ref="char:EOLhyphen"/>veries, and Tenures in Capite, and by Knights Service and Purveyance, and for Setling a Revenue upon His Majesty in lieu thereof.</hi> Know ye therefore, That We, for the Consideration aforesaid; and in satisfaction or lieu of the said Debt or Sum of Four hundred and sixteén thousand se<g ref="char:EOLhyphen"/>ven hundred twenty four pounds thirteen shil<g ref="char:EOLhyphen"/>lings one peny half-peny, by Vs owing to the said Sir <hi>Robert Vyner,</hi> and of Our especial Grace, Certain Knowledge, and meer Motion, have given and granted, and by these Presents for Vs, Our Heirs and Successors, do give and grant unto the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns, one Annual or yearly Rent or Sum of Twenty five thousand and three pounds nine shillings and four pence of Lawful Money of <hi>England,</hi> to be yearly had, received and taken by the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns for ever, out of the Rents, Reve<g ref="char:EOLhyphen"/>nues, Profits and Perquisites, Emoluments and Payments reserved, arising, accruing or coming, or that hereafter shall or may be reser<g ref="char:EOLhyphen"/>ved, arise, accrue or become due or payable unto Vs, Our Heirs and Successors, out of, for or by reason of the Duty of Excise upon Beer, Ale, and other Liquors within Our Kingdom of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tvveed,</hi> by vertue of the said Act of Parliament, the said Sum of Twenty five thousand and three pounds nine shillings and four pence <hi>per annum,</hi> to be paid Quarterly, at the Four most usual Feasts in the Year; That is to say, at the Feast of the Annunciation of the Blessed Virgin <hi>Mary,</hi> the Nativity of Saint <hi>John Baptist,</hi> Saint <hi>Michael</hi> the Archangel, and the Birth of our Lord God, commonly called <hi>Christmas,</hi> by even and equal portions, in Trust
+<pb n="8" facs="tcp:190299:5"/> for such of the Creditors of the said Sir <hi>Robert Vyner,</hi> as within one year next ensuing the date hereof, shall upon notice of these Presents, deliver up their Securities, and accept of Assignments of proportionable parts of the said yearly Sum of Twenty five thousand and three pounds nine shillings and four pence, for satisfaction of their respective Debts, according to the true intent and meaning of the Covenant in that behalf herein after contained, for so much as their pro<g ref="char:EOLhyphen"/>portionable parts shall amount unto: And in the mean time shall not sue or prosecute the said Sir <hi>Robert Vyner,</hi> his Heirs, Executors or Administrators, for such their Debts; and the residue and over-plus of the said yearly Sum of Twenty five thousand and three pounds nine shillings and four pence, to remain and be to and for the proper use and benefit of the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns, without any trust or account whatsoever; the first Pay<g ref="char:EOLhyphen"/>ment of the said Sum of Twenty five thousand and three pounds nine shillings and four pence, to Commence from the Feast of the Birth of our Lord God, One thousand six hundred seventy and six. And We do hereby for Vs, Our Heirs and Successors, authorize, direct and appoint Our High Treasurer, Chancellor and Vnder-treasurer, Chamberlains, and Barons of Our Exchequer, and the High Treasurer, and Com<g ref="char:EOLhyphen"/>missioners of the Treasury, Chancellor, Vnder-treasurer, Chamberlains and Barons of the Exchequer, of Vs, Our Heirs and Successors that hereafter shall be, and all other Officers and Ministers of the said Court, and of the Re<g ref="char:EOLhyphen"/>ceipt thereof, now being, or that hereafter shall be, that they and every of them in their respe<g ref="char:EOLhyphen"/>ctive places, do from time to time, upon the re<g ref="char:EOLhyphen"/>quest of the said Sir <hi>Robert Vyner,</hi> his Heirs or
+<pb n="9" facs="tcp:190299:5"/> Assigns respectively, perform all Acts necessary for the constant and due Payment of the said Yearly Rent or Sum of Twenty five thousand and three pounds nine shillings and four pence, to the said Sir <hi>Robert Vyner,</hi> his Heirs or As<g ref="char:EOLhyphen"/>signs, as the same shall grow due and become payable; and of every such part and parts as the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns, shall Grant or Assign to any person or persons from time to time, according to the Trust and Agréement in that behalf herein contained, and as occasion shall be, levy or strike, or cause to be levyed or stricken in the Receipt of the Exche<g ref="char:EOLhyphen"/>quer of Vs, Our Heirs and Successours from time to time, Tallies of <hi>Pro,</hi> or Assignment, or other Tallies, as the case may require, and as shall be desired, upon the Commissioners, Trea<g ref="char:EOLhyphen"/>surers, Receivers, Collectors or Farmers of the said Duty and Revenue for the time being, or upon such other person or persons as ought to be charged or chargeable therewith, or accoun<g ref="char:EOLhyphen"/>table to Vs, Our Heirs and Successors for the same; who are hereby required and desired from time to time to make due Payment thereof accordingly, so that the said Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Vyner,</hi> his Heirs and Assigns respectively, of all or any part or parts thereof, may certain<g ref="char:EOLhyphen"/>ly and duly, and on every of the said Quar<g ref="char:EOLhyphen"/>terly Feast-days aforementioned, for ever hereafter, have and receive the said Yearly Rent or Sum of Twenty five thousand and thrée pounds nine shillings and four pence, hereby granted out of Our said Revenue, without any further or other Warrant to be Sued for, had or obtained from Vs, Our Heirs and Successors in that behalf, and with<g ref="char:EOLhyphen"/>out any Accompt Imprest, or other Charge to be set upon the said Sir <hi>Robert Vyner,</hi> his Heirs
+<pb n="10" facs="tcp:190299:6"/> or Assigns, or any of them, for the same. And if it shall happen at any time hereafter, that the Rents, Issues or Profits of Our said Re<g ref="char:EOLhyphen"/>venue shall be paid into the Receipt of Our Ex<g ref="char:EOLhyphen"/>chequer, or elsewhere, to the use of Vs, Our Heirs or Successors, before the levying of such Tallies, or before payment be made to the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns respe<g ref="char:EOLhyphen"/>ctively, of the said Yearly Rent, or Sum of Twenty five thousand and three pounds nine shillings and four pence, or any part thereof, according to the true intent of these Our Letters Patents; Then, and in such case, Our express Will and Pleasure is, and We do hereby of Our further especial Grace, certain Knowledge, and meer Motion, for Vs, Our Heirs and Succes<g ref="char:EOLhyphen"/>sors, Authorize and Require the High Treasu<g ref="char:EOLhyphen"/>rer, and Commissioners of the Treasury, Chan<g ref="char:EOLhyphen"/>cellor, Vnder-Treasurer, Chamberlains and Barons of the Exchequer of Vs, Our Heirs and Successors for the time being, and all other Offi<g ref="char:EOLhyphen"/>cers and Ministers of the Exchequer, and of the Receipt thereof; That they, or such of them to whom it appertains, do from time to time, as of<g ref="char:EOLhyphen"/>ten as neéd shall be, well and truly pay, or cause to be paid unto the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns respectively, out of such Moneys as shall be so paid into Our Exchequer, or elsewhere, to the use of Vs, Our Heirs or Successors, all such, or so much of the said yearly Rent, or Sum of Twenty five thousand and threé pounds nine shillings and four pence, as shall from time to time be in arrear, or un<g ref="char:EOLhyphen"/>paid after the Feast-days and times of Pay<g ref="char:EOLhyphen"/>ment aforesaid, or any of them, without any further or other Warrant to be sued for, had or obtained in that behalf, and without any Accompt Imprest, or other Charge to be set
+<pb n="11" facs="tcp:190299:6"/> upon him the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns, for the same or any part thereof. And these Our Letters Patents, or the Ex<g ref="char:EOLhyphen"/>emplification, Entry or Enrollment thereof, shall be unto the High Treasurer, Commissi<g ref="char:EOLhyphen"/>oners of the Treasury, Chancellor and Vn<g ref="char:EOLhyphen"/>der-Treasurer, Chamberlains and Barons of the Exchequer of Vs, Our Heirs and Suc<g ref="char:EOLhyphen"/>cessors, and all other Officers and Ministers of the said Exchequer, and to the Commissi<g ref="char:EOLhyphen"/>oners, Treasurers, Receivers, Collectors, Far<g ref="char:EOLhyphen"/>mers, and all other Officers and Ministers of Our said Revenue of Excise, a good and suffici<g ref="char:EOLhyphen"/>ent Warrant and Discharge for all, and what<g ref="char:EOLhyphen"/>soever they or any of them respectively shall do, or cause to be done in or about the Premisses pur<g ref="char:EOLhyphen"/>suant to Our Will and Pleasure herein before declared. And Our further Will and Plea<g ref="char:EOLhyphen"/>sure is, and We do hereby of Our special Grace, certain Knowledge, and meer Motion, grant, direct and appoint, That all such Tallies of <hi>Pro,</hi> or Assignment, or other Tallies as shall be here<g ref="char:EOLhyphen"/>after levied or struck upon Our said Revenue of Excise, at the instance and desire of the said Sir <hi>Robert Vyner,</hi> his Herts or Assigns respectively, for or towards the satisfaction or securing the payment of the said Yearly Rent, or Sum of Twenty five thousand and threé pounds nine shillings and four pence, or any part thereof, shall be well and truly paid and satisfied out of the said Revenue Quarterly, and every Quar<g ref="char:EOLhyphen"/>ter, as aforesaid, and shall be preferable, and preferred before any other Quarterly pay<g ref="char:EOLhyphen"/>ments out of the same, by vertue or co<g ref="char:EOLhyphen"/>lour of any Warrant, Order or Directions whatsoever of any after Date; Excepting only such Yearly Sums as are necessa<g ref="char:EOLhyphen"/>rily payable for the Management of Our said
+<pb n="12" facs="tcp:190299:7"/> Revenue; And except the Yearly Sums amoun<g ref="char:EOLhyphen"/>ting to Twelve thousand two hundred and nine pounds fifteén shillings and four pence half<g ref="char:EOLhyphen"/>peny, or thereabouts, payable thereout unto Our Dearest Consort the Queén, as parcel of Her Ioynture; And the Yearly Sum of Four and twenty thousand pounds, payable to Our Dear Brother <hi>James</hi> Duke of <hi>York:</hi> Which said several Sums We Will, and do hereby Direct, shall be paid and satisfied unto Our said Dear<g ref="char:EOLhyphen"/>est Consort, and to Our said most Dear Bro<g ref="char:EOLhyphen"/>ther, out of Our said Revenue, duly, constant<g ref="char:EOLhyphen"/>ly, and in the first place, before any of the said Payments, or any other Payments whatsoe<g ref="char:EOLhyphen"/>ver to be made out of the same. And Our Will and Pleasure is, And the said Sir <hi>Robert Vyner</hi> doth hereby for himself, his Heirs, Executors and Administrators, Covenant, Grant and Agree, to and with Vs, Our Heirs and Suc<g ref="char:EOLhyphen"/>cessors, That he the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns, shall and will at any time or times, within One Year next ensuing the Date hereof, Grant and Assign proportio<g ref="char:EOLhyphen"/>nable part and parts of the said Yearly Rent or Sum of Twenty five thousand and threé pounds nine shillings and four pence, unto such of his Creditors, or others by their appoint<g ref="char:EOLhyphen"/>ment, as will be content to deliver up their Securities, and take such Assignments in sa<g ref="char:EOLhyphen"/>tisfaction of their Debts, according to the Trust herein before expressed: And that he the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns, shall not, or will, during the said space of One Year, make any Grant or Assignment of all or any part of the said Yearly Sum of Twen<g ref="char:EOLhyphen"/>ty five thousand and threé pounds nine shillings and four pence, unto any person or persons, but such as are Creditors of the said Sir <hi>Robert
+<pb n="13" facs="tcp:190299:7"/> Vyner,</hi> or others by their appointment, as aforesaid: And that if any difference shall at any time or times, within the space of One Year and an half now next coming, arise be<g ref="char:EOLhyphen"/>tweén the said Sir <hi>Robert Vyner,</hi> his Heirs, Executors, Administrators or Assigns, or any of them, and the said Creditors, or any of them, touching the Assigning or Disposing of all or any part or parts of the said Annuity or Yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence, That then the said Sir <hi>Robert Vyner,</hi> his Heirs, Exe<g ref="char:EOLhyphen"/>cutors, Administrators and Assigns, shall and will from time to time submit themselves, and all matters and things relating thereunto, to the Controll of the Lord High Treasurer, or the Commissioners of the Treasury for the time being, and shall and will observe and perform all such Orders and Directions as the Lord High Treasurer, or the Commissio<g ref="char:EOLhyphen"/>ners of the Treasury shall from time to time make or give concerning the same. Provided always, and Our further Will and Pleasure, Intent and Meaning is, and is hereby De<g ref="char:EOLhyphen"/>clared to be, That all Assignments to be made, as well before as after the said space of One Year, of any part or parts of the said Yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence, hereby granted, shall within the space of Thirty days next after the Execution thereof, be Enrolled before the Auditor of the Receipt of the Exche<g ref="char:EOLhyphen"/>quer, or the Clerk of the Pells for the time being, to the end it may appear what Assign<g ref="char:EOLhyphen"/>ments have beén granted, and Payments may be thereupon made according to the intent of these Presents; and that every Assignment not so Enrolled, shall be of no effect. Provided
+<pb n="14" facs="tcp:190299:8"/> also, That when We, Our Heirs or Succes<g ref="char:EOLhyphen"/>sors, shall at entire Payments have actually Paid the full Sum of Four hundred and six<g ref="char:EOLhyphen"/>teen thousand seven hundred twenty and four pounds thirteén shillings one peny half-peny, of lawful Money of <hi>England,</hi> to the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns, and to such person or persons to whom such Assignment or Assignments shall be made as aforesaid re<g ref="char:EOLhyphen"/>spectively, in proportion amongst them, after the rate of One hundred pounds Principal Money, for each and every Six pounds <hi>per An<g ref="char:EOLhyphen"/>num,</hi> which they, every, or any of them respe<g ref="char:EOLhyphen"/>ctively, shall or ought to have and enjoy of the said Yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence, hereby Granted by virtue of these Presents, or such Assignment or Assignments as shall be made and Enrolled as aforesaid, and so af<g ref="char:EOLhyphen"/>ter those proportions and rates for greater or lesser Sums, as the respective cases shall hap<g ref="char:EOLhyphen"/>pen, and also the Arrears of the said Yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence (if any be) That then these Presents, and the Grant hereby made of the said Yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence shall cease and be void; Any thing herein before contained to the contrary notwithstanding. And We do here<g ref="char:EOLhyphen"/>by of Our further especial Grace, certain Knowledge, and meér Motion, for Vs, Our Heirs and Successors, grant unto the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns, and Our express Pleasure is, That these Our Let<g ref="char:EOLhyphen"/>ters Patents, and every Clause, Article and Sentence therein contained, whereupon any ambiguity or doubt shall or may arise, That
+<pb n="15" facs="tcp:190299:8"/> the same shall be at all times expounded and taken most favourably and beneficially for the advantage of the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns: And that these Our Let<g ref="char:EOLhyphen"/>ters Patents shall be good and effectual in Law, and shall be available to the said Sir <hi>Robert Vy<g ref="char:EOLhyphen"/>ner,</hi> his Heirs and Assigns respectively, for his and their receiving and enjoying the said Year<g ref="char:EOLhyphen"/>ly Rent, or Sum of Twenty five thousand and threé pounds nine shillings and four pence, with all the arrearages thereof, in manner aforesaid, notwithstanding the not reciting, or not mentioning, or not truly and certainly reciting or mentioning of any Act or Acts of Parliament whereby the said Revenue was gi<g ref="char:EOLhyphen"/>ven and granted unto Vs, Our Heirs and Successors, or by what Title We have, receive or enjoy the same; And notwithstanding the not reciting, or not mentioning in this Our Grant, any Lease or Leases, Grant or Grants, Charge or Charges made of or upon, or out of the said Revenue, or any part thereof alone on the said Revenue, or on the same, and any other part or parts of Our Revenue of Ex<g ref="char:EOLhyphen"/>cise, or generally on Our Revenue, or the Date or Contents of such Leases or Grants, or of the persons to whom the same are made; And notwithstanding that no mention be herein of the direct and certain yearly, and other Rents and profits of the Premisses, or of the certain, true or direct nature of such Rents and Pro<g ref="char:EOLhyphen"/>fits, or how, or in what manner they arise, be<g ref="char:EOLhyphen"/>come due or payable unto Vs, Our Heirs and Successors; And notwithstanding the not men<g ref="char:EOLhyphen"/>tioning how and in what manner the said Debts due from Vs to the said Sir <hi>Robert Vy<g ref="char:EOLhyphen"/>ner</hi> ariseth particularly, or any mistake in the stating, or in the quantity or Sum of the fore<g ref="char:EOLhyphen"/>mentioned
+<pb n="16" facs="tcp:190299:9"/> Debt due, or herein mentioned to be due by Vs to the said Sir <hi>Robert Vyne;</hi> And notwithstanding the Statute of <hi>Henry</hi> the Fourth late King of <hi>England,</hi> published in the First year of His Reign; And notwithstand<g ref="char:EOLhyphen"/>ing the Statute of <hi>Henry</hi> the Sixth, late King of <hi>England,</hi> made and published in the Eigh<g ref="char:EOLhyphen"/>teénth year of his Reign; And notwith<g ref="char:EOLhyphen"/>standing the Statute of <hi>Henry</hi> the Eighth, late King of <hi>England,</hi> made and published in the Six and twentieth year of his Reign; And notwithstanding the Statutes or Acts of this present Parliament, made and pub<g ref="char:EOLhyphen"/>lished in the Twelfth Year of Our Reign, whereby the said Revenue was, or was men<g ref="char:EOLhyphen"/>tioned or intended to be Granted, Setled and Confirmed unto Vs, Our Heirs and Succes<g ref="char:EOLhyphen"/>sors, or any Article, Clause, Sentence, or Re<g ref="char:EOLhyphen"/>straint therein contained; And notwithstand<g ref="char:EOLhyphen"/>ing any defect in this Our Grant, or any Act, Statute, Ordinance, Proclamation, Provisi<g ref="char:EOLhyphen"/>on or Restraint whatsoever made or provided, or any other Act, matter or thing whatsoever to the contrary hereof in any wise notwith<g ref="char:EOLhyphen"/>standing. And lastly, Our Will and Plea<g ref="char:EOLhyphen"/>sure is, and We do hereby of Our more abun<g ref="char:EOLhyphen"/>dant Grace, certain Knowledge, and meér Motion, for Vs, Our Heirs and Successors, Covenant and Grant to and with the said Sir <hi>Robert Vyner,</hi> his Heirs and Assigns, That due Payment shall be made of the said yearly Sum of Twenty five thousand and threé pounds nine shillings and four pence hereby granted, and all other things hereby directed to be done on Our part, shall be from time to time done and performed according to the true intent and meaning of these Presents: And that if at any time hereafter, any defect
+<pb n="17" facs="tcp:190299:9"/> or question shall be found or made, of or in the validity of this Our present Grant, That then upon the humble Petition of the said Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Vyner,</hi> his Heirs or Assigns, We, Our Heirs and Successors will be Graciously pleas<g ref="char:EOLhyphen"/>ed to make such further Grant, Assurance and Confirmation of the said Yearly Rent, or Sum of Twenty five thousand and threé pounds nine shillings and four pence to the said Sir <hi>Robert Vyner,</hi> his Heirs or Assigns, as by Our Attorney-General shall be approved of, and ad<g ref="char:EOLhyphen"/>vised, and by the Councel Learned in the Law of the said Sir <hi>Robert Vyner,</hi> his Heirs or As<g ref="char:EOLhyphen"/>signs, shall be advised and desired, and with such beneficial Clauses to be therein contained, as shall be thought expedient, and most condu<g ref="char:EOLhyphen"/>cing to the performance of Our Will and Pleasure herein before declared. In Witness whereof, We have caused these Our Letters to be made forth Patents.</p>
+            <closer>
+               <dateline>
+                  <hi>Witness Our Self at <hi>Westminster,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Thirtieth day of <hi>April,</hi> in the Nine and twentieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="parties">
+            <head>The like Letters Patents, <hi>mutatis mutandis,</hi> were granted unto the Persons hereafter named.</head>
+            <list>
+               <item>To <hi>Edward Backwell</hi> of <hi>London</hi> Esquire, For Two hundred ninety five thousand nine hundred ninety four pounds sixteen shillings six pence, Principal money; The Sum of Seventeen thousand seven hundred fifty nine pounds thirteen shillings eight pence <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <pb n="18" facs="tcp:190299:10"/>
+               <item>To <hi>Gilbert Whitehall</hi> of <hi>London</hi> Goldsmith, For Two hundred forty eight thousand eight hundred sixty six pounds three shillings five pence, Principal money; The Sum of Fourteen thousand nine hundred thirty one pounds nineteen shillings four pence <hi>per annum</hi> Inte<g ref="char:EOLhyphen"/>rest, to be paid Quarterly.</item>
+               <item>To <hi>Joseph Horneby</hi> of <hi>London</hi> Goldsmith, For Twenty two thousand five hundred forty eight pounds five shillings six pence, Principal money; The Sum of Thirteen hundred fifty two pounds seventeen shillings ten pence <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>George Snell</hi> of <hi>London</hi> Goldsmith, For Ten thou<g ref="char:EOLhyphen"/>sand eight hundred ninety four pounds fourteen shil<g ref="char:EOLhyphen"/>lings five pence, Principal money; The Sum of Six hundred fifty three pounds thirteen shillings six pence <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>Bernard Turnor</hi> of <hi>London</hi> Goldsmith, For Six<g ref="char:EOLhyphen"/>teen thousand two hundred seventy five pounds nine shillings eight pence, Principal money; The Sum of Nine hundred seventy six pounds ten shillings six pence <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>Jeremiah Snow</hi> of <hi>London</hi> Goldsmith, For Fifty nine thousand seven hundred and eighty pounds eigh<g ref="char:EOLhyphen"/>teen shillings eight pence, Principal money; The Sum of Three thousand five hundred eighty six pounds se<g ref="char:EOLhyphen"/>venteen shillings <hi>per annum</hi> Interest, to be paid Quar<g ref="char:EOLhyphen"/>terly.</item>
+               <item>To <hi>John Lyndsey</hi> of <hi>London</hi> Goldsmith, as due to <hi>Dorothy</hi> his Wife, Administratrix to <hi>John Colvile</hi> her late Husband, deceased, For Eighty five thousand eight hundred thirty two pounds seventeen shillings two pence, Principal money; The Sum of Five thousand
+<pb n="19" facs="tcp:190299:10"/> one hundred forty nine pounds seventeen shillings four pence <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>Robert Welstede</hi> of <hi>London</hi> Goldsmith, For Eleven thousand three hundred and seven pounds twelve shillings and one peny, Principal money; The Sum of Six hundred seventy eight pounds nine shillings <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>Thomas Rowe</hi> of <hi>London</hi> Goldsmith, For Seven<g ref="char:EOLhyphen"/>teen thousand six hundred and fifteen pounds seven<g ref="char:EOLhyphen"/>teen shillings eight pence, Principal money; The Sum of One thousand fifty six pounds nineteen shillings <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>John Portman</hi> of <hi>London</hi> Goldsmith, For Seven<g ref="char:EOLhyphen"/>ty six thousand seven hundred and sixty pounds eigh<g ref="char:EOLhyphen"/>teen shillings two pence, Principal money; The Sum of Four thousand six hundred and five pounds thirteen shillings <hi>per annum</hi> Interest, to be paid Quarterly.</item>
+               <item>To <hi>John Collier</hi> of <hi>London</hi> Goldsmith, For Seven<g ref="char:EOLhyphen"/>teen hundred eighty four pounds six shillings four pence, Principal money; The Sum of One hundred and se<g ref="char:EOLhyphen"/>ven pounds one shilling and one peny <hi>per annum</hi> Inte<g ref="char:EOLhyphen"/>rest, to be paid Quarterly.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
